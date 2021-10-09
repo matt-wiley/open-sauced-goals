@@ -1,98 +1,98 @@
 [
   {
     "full_name": "agarrharr/awesome-cli-apps",
-    "stargazers_count": 8165,
+    "stargazers_count": 8173,
     "open_issues_count": 19,
-    "forks_count": 637
+    "forks_count": 639
   },
   {
     "full_name": "StylishThemes/GitHub-Dark",
-    "stargazers_count": 9497,
-    "open_issues_count": 44,
+    "stargazers_count": 9495,
+    "open_issues_count": 46,
     "forks_count": 652
   },
   {
     "full_name": "nikitavoloboev/my-mac-os",
-    "stargazers_count": 18219,
+    "stargazers_count": 18223,
     "open_issues_count": 2,
-    "forks_count": 841
+    "forks_count": 840
   },
   {
     "full_name": "viatsko/awesome-vscode",
-    "stargazers_count": 19397,
+    "stargazers_count": 19403,
     "open_issues_count": 49,
-    "forks_count": 1045
+    "forks_count": 1046
   },
   {
     "full_name": "veggiemonk/awesome-docker",
-    "stargazers_count": 20476,
+    "stargazers_count": 20489,
     "open_issues_count": 0,
-    "forks_count": 2445
+    "forks_count": 2448
   },
   {
     "full_name": "alebcay/awesome-shell",
-    "stargazers_count": 22229,
+    "stargazers_count": 22245,
     "open_issues_count": 66,
-    "forks_count": 2048
+    "forks_count": 2050
   },
   {
     "full_name": "herrbischoff/awesome-macos-command-line",
-    "stargazers_count": 25603,
+    "stargazers_count": 25599,
     "open_issues_count": 0,
     "forks_count": 1520
   },
   {
     "full_name": "akullpp/awesome-java",
-    "stargazers_count": 30012,
-    "open_issues_count": 3,
+    "stargazers_count": 30036,
+    "open_issues_count": 4,
     "forks_count": 6457
   },
   {
     "full_name": "binhnguyennus/awesome-scalability",
-    "stargazers_count": 36061,
-    "open_issues_count": 7,
-    "forks_count": 4193
+    "stargazers_count": 36085,
+    "open_issues_count": 8,
+    "forks_count": 4196
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 64795,
-    "open_issues_count": 112,
-    "forks_count": 4849
+    "stargazers_count": 65333,
+    "open_issues_count": 116,
+    "forks_count": 4864
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 103151,
-    "open_issues_count": 188,
-    "forks_count": 19958
+    "stargazers_count": 103305,
+    "open_issues_count": 189,
+    "forks_count": 19970
   },
   {
     "full_name": "dendronhq/dendron",
-    "stargazers_count": 2216,
-    "open_issues_count": 340,
+    "stargazers_count": 2220,
+    "open_issues_count": 349,
     "forks_count": 85
   },
   {
     "full_name": "tasks/tasks",
-    "stargazers_count": 1786,
-    "open_issues_count": 422,
+    "stargazers_count": 1789,
+    "open_issues_count": 426,
     "forks_count": 364
   },
   {
     "full_name": "VSCodium/vscodium",
-    "stargazers_count": 14057,
-    "open_issues_count": 101,
-    "forks_count": 542
+    "stargazers_count": 14092,
+    "open_issues_count": 103,
+    "forks_count": 544
   },
   {
     "full_name": "DIYgod/RSSHub",
-    "stargazers_count": 17462,
-    "open_issues_count": 541,
-    "forks_count": 3298
+    "stargazers_count": 17480,
+    "open_issues_count": 545,
+    "forks_count": 3308
   },
   {
     "full_name": "portainer/portainer",
-    "stargazers_count": 19661,
-    "open_issues_count": 866,
-    "forks_count": 1767
+    "stargazers_count": 19693,
+    "open_issues_count": 859,
+    "forks_count": 1772
   }
 ]
